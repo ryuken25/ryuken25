@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Winayagatar
+- 👀 I’m interested in my girl, Sania :3
+- 🌱 I’m currently learning php
+- 📫 How to reach me 
+- Follow Me On 
+- IG : @daisun.winayagatar
