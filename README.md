@@ -2,7 +2,7 @@
 
 **Web3 & automation · Python scripts · Excel**
 
-💞 *Taken & happier:* with **Dek Reni** 💞
+💞 *Taken & happier* with **Dek Reni** 💞
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## Skill snapshot
 
-> Scale: 1–10 (▱ = newbie · ▰ = pro). Honest bars, growing weekly.
+> Scale 1–10 (▱ = newbie · ▰ = pro). Honest bars, growing weekly.
 
 **Automation & Web3**
 
