@@ -90,7 +90,7 @@
 * 🔧 **On-chain quick-check scripts** — balances, proofs, claim windows.
 * 🤖 **Quest/bot runners** — safe delays, proxy rotation, telemetry.
 * 📊 **Portfolio sheets** — APY vs risk, daily PnL, gas tracking.
-* 🧱 **MVP web backends** — auth, DB, and REST scaffolds.
+* 🧱 **Web backends** — auth, DB, and REST scaffolds.
 
 > DM me if you want a lightweight script turned into a CLI in a day or two.
 
