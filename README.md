@@ -11,7 +11,7 @@
 * 🧩 I automate Web3 workflows (airdrops, quests, on-chain checks) and love turning repetitive steps into scripts.
 * 🐍 Python enjoyer; I prototype fast, measure, then harden.
 * 🧪 DeFi curious (L2s, bridges, vaults) with a penchant for dashboards.
-* 🎓 OTW S1 Sistem Informasi — skripsi: *Sistem Informasi Pemesanan Jasa Video pada Mellogangvisuals* (Waterfall).
+* 🎓 OTW S1 Sistem Informasi — skripsi: *Sistem Informasi pada Mellogangvisuals*.
 
 ---
 
