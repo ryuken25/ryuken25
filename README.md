@@ -8,10 +8,10 @@
 
 ## About me
 
-* 🧩 I automate Web3 workflows (airdrops, quests, on-chain checks) and love turning repetitive steps into scripts.
-* 🐍 Python enjoyer; I prototype fast, measure, then harden.
-* 🧪 DeFi curious (L2s, bridges, vaults) with a penchant for dashboards.
-* 🎓 OTW S1 Sistem Informasi — skripsi: *Sistem Informasi pada Mellogangvisuals*.
+🧩 I automate Web3 workflows (airdrops, quests, on-chain checks) and love turning repetitive steps into scripts.
+🐍 Python 
+🧪 DeFi curious (L2s, bridges, vaults)
+🎓 OTW S1 Sistem Informasi — skripsi: *Sistem Informasi pada Mellogangvisuals*.
 
 ---
 
@@ -38,12 +38,13 @@
 
 * NestJS — ▰▱▱▱▱▱▱▱▱▱ **1/10**
 * React — ▰▱▱▱▱▱▱▱▱▱ **1/10**
+* CodeIgniter4 — ▰▰▰▰▱▱▱▱▱▱ **4/10**
 
 **Productivity**
 
-* Excel — ▰▰▰▰▰▰▰▰▰▱ **9/10**
+* Excel — ▰▰▰▰▰▰▰▱▱▱ **7/10**
 * Word — ▰▰▰▰▰▰▰▰▱▱ **8/10**
-* Git — ▰▰▰▰▰▱▱▱▱▱ **5/10**
+* Git — ▰▰▰▱▱▱▱▱▱▱ **3/10**
 * Docker — ▰▰▱▱▱▱▱▱▱▱ **2/10**
 * Composer — ▰▱▱▱▱▱▱▱▱▱ **1/10**
 
