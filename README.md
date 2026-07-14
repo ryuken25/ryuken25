@@ -1,127 +1,53 @@
-# Hi, I’m Winayagatar 👋
+# Hi, I'm Ryuken 👋
 
-**Web3 & automation · Python scripts · Excel**
+**AI Application Developer** | Full-Stack Engineer | Web3 Builder
 
-💞 *Taken & happier* with **Dek Reni** 💞
-
----
-
-## About me
-
-🧩 I automate Web3 workflows (airdrops, quests, on-chain checks) and love turning repetitive steps into scripts.
-🐍 Python 
-🧪 DeFi curious (L2s, bridges, vaults)
-🎓 OTW S1 Sistem Informasi — skripsi: *Sistem Informasi pada Mellogangvisuals*.
+I build AI-powered applications, web platforms, and blockchain tools. Focused on turning complex technology into practical, user-friendly products.
 
 ---
 
-## Skill snapshot
+## 🛠️ Tech Stack
 
-> Scale 1–10 (▱ = newbie · ▰ = pro). Honest bars, growing weekly.
-
-**Automation & Web3**
-
-* Web3 Botting — ▰▰▰▰▰▰▰▰▰▱ **9/10**
-* Web3 Farming — ▰▰▰▰▰▰▰▰▱▱ **8/10**
-* Telegram/Telethon — ▰▰▰▰▰▰▰▱▱▱ **7/10**
-
-**Programming & Data**
-
-* Python — ▰▰▰▰▰▰▰▱▱▱ **7/10**
-* Pandas/Data wrangling — ▰▰▰▰▰▰▱▱▱▱ **6/10**
-* JavaScript (ES) — ▰▰▰▱▱▱▱▱▱▱ **3/10**
-* Node.js — ▰▰▰▱▱▱▱▱▱▱ **3/10**
-* Ethers.js — ▰▰▰▱▱▱▱▱▱▱ **3/10**
-* SQL basics — ▰▰▰▰▰▰▰▱▱▱ **7/10**
-
-**Frameworks**
-
-* NestJS — ▰▱▱▱▱▱▱▱▱▱ **1/10**
-* React — ▰▱▱▱▱▱▱▱▱▱ **1/10**
-* CodeIgniter4 — ▰▰▰▰▱▱▱▱▱▱ **4/10**
-
-**Productivity**
-
-* Excel — ▰▰▰▰▰▰▰▱▱▱ **7/10**
-* Word — ▰▰▰▰▰▰▰▰▱▱ **8/10**
-* Git — ▰▰▰▱▱▱▱▱▱▱ **3/10**
-* Docker — ▰▰▱▱▱▱▱▱▱▱ **2/10**
-* Composer — ▰▱▱▱▱▱▱▱▱▱ **1/10**
-
-**Languages**
-
-* Japanese — ▰▰▱▱▱▱▱▱▱▱ **2/10**
-  * Hiragana (ひらがな) — ▰▰▰▰▰▰▰▰▰▱ **9/10**
-  * Katakana (カタカナ) — ▰▰▱▱▱▱▱▱▱▱ **2/10**
-  * Kanji (漢字) — ▰▱▱▱▱▱▱▱▱▱ **1/10**
-
-> 日本語を勉強しています！ *(Nihongo o benkyou shiteimasu – I am studying Japanese!)*  
-> 頑張ります！ *(Ganbarimasu – I’ll do my best!)*
-
-> *PS: rating kecil = bukan takut, cuma daftar PR berikutnya.*
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, Three.js, Framer Motion |
+| **Backend** | Node.js, PHP, CodeIgniter, FastAPI, Python |
+| **AI / ML** | OpenAI API, Whisper, LangChain, OCR, NLP |
+| **Web3** | Solidity, Ethers.js, Wallet Integration, Smart Contracts |
+| **Database** | MySQL, PostgreSQL, Supabase |
+| **Tools** | Git, Docker, Vercel, Linux, Rust |
 
 ---
 
-## Current focus (2025)
+## 🚀 Featured Projects
 
-* Building Telegram/Web3 automation pipelines (Python + Telethon).
-* DeFi experiments on L2s (Linea, Morph, others) with safe-mode dashboards.
-* Personal monorepo (NestJS API + React frontend) — learning by shipping.
-* Data hygiene: notebooks → scripts → CLIs.
-
----
-
-## Tech I touch
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?logo=ethereum&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**QuestPay**](https://github.com/Ryuken25/kenshi-questpay) | Web3 creator checkout desk — accept crypto payments | Next.js, TypeScript, Web3 |
+| [**ShipOS**](https://github.com/Ryuken25/kenshi-shipos) | Daily shipping operating system for logistics management | Next.js, TypeScript |
+| [**VERSE**](https://github.com/Ryuken25/verse) | Immersive 3D Web3 community platform with particle fields and wallet integration | Next.js, Three.js, Tailwind |
+| [**Mellogang Website**](https://github.com/Ryuken25/mellogang-website) | Photo/video studio platform with auth, OTP, Google OAuth, PDF invoices, and security hardening | PHP/CodeIgniter, React |
+| [**Kenshi Chord**](https://github.com/Ryuken25/kenshi-chord) | AI music chord detection and transcription using Whisper and ML models | Python, FastAPI, ML |
+| [**Suzu Website**](https://github.com/Ryuken25/suzu-website) | Artist portfolio, commission system, and collaboration platform | Next.js, TypeScript |
+| [**Diagrams**](https://github.com/Ryuken25/diagrams) | CLI tool for generating DFD, ERD, and flowchart diagrams with deterministic layout | Python |
+| [**Zano OCR**](https://github.com/Ryuken25/zano-ocr) | Optical character recognition tool | TypeScript |
 
 ---
 
-## Highlighted things
+## 📊 What I'm Working On
 
-* 🔧 **On-chain quick-check scripts** — balances, proofs, claim windows.
-* 🤖 **Quest/bot runners** — safe delays, proxy rotation, telemetry.
-* 📊 **Portfolio sheets** — APY vs risk, daily PnL, gas tracking.
-* 🧱 **Web backends** — auth, DB, and REST scaffolds.
-
-> DM me if you want a lightweight script turned into a CLI in a day or two.
+- 🤖 Building AI-powered applications and automation tools
+- 🔗 Web3 integration and decentralized platforms
+- 🎨 Modern, responsive web applications with 3D experiences
+- 🛡️ Secure authentication systems and API development
 
 ---
 
-## How to reach me
+## 📫 Let's Connect
 
-* 📸 Instagram: **[@winatar._](https://instagram.com/winatar._)**
-* ✈️ Telegram: **[@kenshi25](https://t.me/kenshi25)**
-
----
-
-## Follow / Support
-
-* ⭐️ If any repo helps you, please star it — kecil tapi bikin semangat.
-* 📝 Open issues for feature requests; PRs always welcome.
+- 📧 Open to freelance and remote opportunities
+- 🌏 Available for international collaboration
 
 ---
 
-## Pinned (suggested)
-
-* `starter-auth-api` — NestJS auth API starter (Postgres + Prisma)
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ryuken25&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuken25&layout=compact&theme=transparent)
-
----
-
-> *Last updated: Sep 17, 2025 — always a WIP.*
+*"Building the future, one commit at a time."*
