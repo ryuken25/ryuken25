@@ -1,61 +1,51 @@
-# Hi, I'm Winayagatar 👋
+```text
+$ whoami
+  I Made Winayagatar Arya Bhanu  —  goes by "Winayagatar"
+  AI Full-Stack Developer & Automation Engineer
+  Tabanan, Bali, Indonesia   ·   open to Kuala Lumpur, Malaysia
+```
 
-### AI Full-Stack Developer & Automation Engineer
+I build web apps and the automation that keeps them running. Four products are live in production right now, and I've shipped 50+ bots for clients since I went freelance in 2023.
 
-Based in Bali, Indonesia — open to relocation to **Kuala Lumpur, Malaysia**.
+I work AI-first — LLM tooling is part of my daily loop for speed — but I own the architecture, read every diff, and run the deploys myself. Nothing ships on autopilot.
 
-I build web apps and automation systems. **Four products live in production, 50+ bots delivered for clients since 2023.** I work AI-first — LLM tooling daily for speed — but I own the architecture, the code review, and the deploys myself.
+**Portfolio →** https://winayagatar.vercel.app
 
-🌐 **Portfolio → [winayagatar.vercel.app](https://winayagatar.vercel.app)**  ·  ✉️ [winayaarya@gmail.com](mailto:winayaarya@gmail.com)  ·  💬 Telegram [@kenshi25](https://t.me/kenshi25)
+## Live in production
 
----
+| Project | What it does | |
+| :--- | :--- | :--- |
+| **QuestPay** | Web3 creator checkout desk — solo build, from database schema to the payout flow | [site](https://kenshi-questpay.vercel.app) · [code](https://github.com/ryuken25/kenshi-questpay) |
+| **Kenshi Notes** | Obsidian-style notes on a persistent Postgres backend | [site](https://kenshi-notes.vercel.app) |
+| **Ganga Schedule** | Class-schedule app with a UI that changes with the seasons | [site](https://ganga-schedule-universal.vercel.app) |
+| **Mellogang Visuals** | Studio ordering + production tracking: role-based access, OTP/OAuth, PDF invoices (client work) | [site](https://mellogang.vercel.app) · [code](https://github.com/ryuken25/mellogang-website) |
 
-### 🚀 Live in production
+Right now I'm building **Kenshi Chord** — turning audio into chord charts with Whisper and a FastAPI backend. Work in progress, not done yet: [repo](https://github.com/ryuken25/kenshi-chord).
 
-| Project | What it is | Live |
-| --- | --- | --- |
-| **QuestPay** | Web3 creator checkout desk — built & run solo (UI, DB, payment/release flow, deploy) | [open ↗](https://kenshi-questpay.vercel.app) |
-| **Kenshi Notes** | Obsidian-style notes app on a persistent Postgres backend | [open ↗](https://kenshi-notes.vercel.app) |
-| **Ganga Schedule Universal** | Class-schedule web app with a seasonal UI | [open ↗](https://ganga-schedule-universal.vercel.app) |
-| **Mellogang Visuals** | Studio ordering & production-tracking system (client work) | [open ↗](https://mellogang.vercel.app) |
+## The stack I actually use
 
-🎧 **In progress —** [Kenshi Chord](https://github.com/ryuken25/kenshi-chord): audio-to-chord transcription with Whisper + chord-recognition models on a FastAPI backend.
+```
+web         TypeScript · React · Next.js · Node.js · Tailwind
+data        PostgreSQL (Neon) · MySQL · Prisma · Supabase
+automation  Python · Playwright · Telegram & web bots · scheduled jobs
+ai          OpenAI / Claude / Gemini APIs · agents & tool calling
+also        PHP · SQL · REST API design · Git · Vercel
+```
 
----
+Most of the bot work is private client code, so it isn't up here — happy to walk through any of it in a call.
 
-### 🛠️ Stack
+## How I work
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- Scope it, price it, build it, ship it, and support it after launch. I like owning the whole thing.
+- LLMs do the grunt work; I make the calls on architecture and correctness. Human review before anything goes out.
+- Small, staged releases over big-bang launches. Boring deploys are good deploys.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## Say hello
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+Open to full-time roles in Malaysia or remote, plus contract and freelance work.
 
-**AI & Automation:** LLM APIs (OpenAI · Claude · Gemini) · AI agents & tool calling · prompt engineering · Playwright scraping · Telegram/web bots · scheduled jobs
+- **Email** — winayaarya@gmail.com
+- **Telegram** — [@kenshi25](https://t.me/kenshi25)
+- **Portfolio** — https://winayagatar.vercel.app
 
----
-
-### 📊 GitHub
-
-![Winayagatar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuken25&show_icons=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuken25&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
----
-
-### 📫 Get in touch
-
-Open to **full-time roles in Malaysia or remote**, plus contract and freelance work.
-
-[**Portfolio**](https://winayagatar.vercel.app) · [Email](mailto:winayaarya@gmail.com) · [Telegram](https://t.me/kenshi25) · [Résumé](https://winayagatar.vercel.app/resume.pdf)
+<sub>S.Kom, ITB STIKOM Bali (2026) · BNSP Certified Programmer · 2nd place, OSN-K Informatics 2020</sub>
