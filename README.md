@@ -1,156 +1,61 @@
-<div align="center">
+# Hi, I'm Winayagatar 👋
 
-# I Made Winayagatar Arya Bhanu, S.Kom.
+### AI Full-Stack Developer & Automation Engineer
 
-### AI Application Developer · Full-Stack Engineer · Web3 Builder
+Based in Bali, Indonesia — open to relocation to **Kuala Lumpur, Malaysia**.
 
-<br/>
+I build web apps and automation systems. **Four products live in production, 50+ bots delivered for clients since 2023.** I work AI-first — LLM tooling daily for speed — but I own the architecture, the code review, and the deploys myself.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI-powered+applications;Crafting+modern+web+platforms;Engineering+Web3+solutions)
-
-<br/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-@kenshi25-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kenshi25)
-[![Email](https://img.shields.io/badge/Email-winayaarya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winayaarya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ryuken25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryuken25)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ryuken25&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+🌐 **Portfolio → [winayagatar.vercel.app](https://winayagatar.vercel.app)**  ·  ✉️ [winayaarya@gmail.com](mailto:winayaarya@gmail.com)  ·  💬 Telegram [@kenshi25](https://t.me/kenshi25)
 
 ---
 
-## 🧑‍💻 About Me
+### 🚀 Live in production
 
-I'm a **full-stack software engineer** from Indonesia specializing in **AI-powered applications**, **modern web platforms**, and **Web3/blockchain solutions**. I hold a **Bachelor of Computer Science (S.Kom.)** and bring hands-on experience building production-grade applications from concept to deployment.
+| Project | What it is | Live |
+| --- | --- | --- |
+| **QuestPay** | Web3 creator checkout desk — built & run solo (UI, DB, payment/release flow, deploy) | [open ↗](https://kenshi-questpay.vercel.app) |
+| **Kenshi Notes** | Obsidian-style notes app on a persistent Postgres backend | [open ↗](https://kenshi-notes.vercel.app) |
+| **Ganga Schedule Universal** | Class-schedule web app with a seasonal UI | [open ↗](https://ganga-schedule-universal.vercel.app) |
+| **Mellogang Visuals** | Studio ordering & production-tracking system (client work) | [open ↗](https://mellogang.vercel.app) |
 
-- 🤖 I build intelligent apps that integrate AI APIs, NLP, and ML models
-- 🌐 I craft responsive, performant web platforms with modern frameworks
-- 🔗 I develop Web3 tools including wallets, payment systems, and dApps
-- 🛡️ I implement secure authentication, API hardening, and production-grade security
-- 📦 I ship — from prototype to deployed product
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Frontend | Backend | AI / ML | Web3 |
-|:--------:|:-------:|:-------:|:----:|
-| Next.js | Node.js | OpenAI API | Solidity |
-| React | Python | Whisper | Ethers.js |
-| TypeScript | FastAPI | LangChain | Wallet Integration |
-| Tailwind CSS | PHP / CodeIgniter | OCR / NLP | Smart Contracts |
-| Three.js | PostgreSQL | Fine-tuning | DeFi |
-| Framer Motion | Supabase | RAG Pipelines | |
-
-</div>
+🎧 **In progress —** [Kenshi Chord](https://github.com/ryuken25/kenshi-chord): audio-to-chord transcription with Whisper + chord-recognition models on a FastAPI backend.
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Stack
 
-<table>
-<tr>
-<td width="50%">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### 🎯 [QuestPay](https://github.com/Ryuken25/kenshi-questpay)
-**Web3 Creator Checkout Desk**
-> Accept crypto payments seamlessly. Built for creators who want decentralized payment infrastructure.
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-`Next.js` `TypeScript` `Web3` `Stripe`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-</td>
-<td width="50%">
-
-### 📦 [ShipOS](https://github.com/Ryuken25/kenshi-shipos)
-**Daily Shipping Operating System**
-> Logistics management platform for tracking shipments, managing orders, and streamlining operations.
-
-`Next.js` `TypeScript` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 [VERSE](https://github.com/Ryuken25/verse)
-**Immersive 3D Web3 Community**
-> Next-gen platform combining stunning 3D visuals with blockchain technology. Features particle fields, floating orbs, and wallet integration.
-
-`Next.js` `Three.js` `React Three Fiber` `Tailwind`
-
-</td>
-<td width="50%">
-
-### 🎨 [Mellogang Website](https://github.com/Ryuken25/mellogang-website)
-**Photo/Video Studio Platform**
-> Full-stack platform with auth system, OTP verification, Google OAuth, PDF invoice generation, and comprehensive security headers.
-
-`PHP/CodeIgniter` `React` `Tailwind` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎵 [Kenshi Chord](https://github.com/Ryuken25/kenshi-chord)
-**AI Music Chord Detection**
-> AI-powered tool that detects and transcribes music chords using Whisper, BTC chord transcription, and MMS_FA models.
-
-`Python` `FastAPI` `Whisper` `ML Models`
-
-</td>
-<td width="50%">
-
-### 🎨 [Suzu Website](https://github.com/Ryuken25/suzu-website)
-**Artist Portfolio & Commission Platform**
-> Complete platform for artists — portfolio showcase, commission system, and open collaboration features.
-
-`Next.js` `TypeScript` `Tailwind`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 📂 [View All Projects →](https://github.com/Ryuken25?tab=repositories)
-
-</div>
+**AI & Automation:** LLM APIs (OpenAI · Claude · Gemini) · AI agents & tool calling · prompt engineering · Playwright scraping · Telegram/web bots · scheduled jobs
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub
 
-<div align="center">
-
-![Ryuken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryuken25&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuken25&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryuken25&theme=radical&hide_border=true)
-
-</div>
+![Winayagatar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuken25&show_icons=true&hide_border=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuken25&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
 
 ---
 
-## 🌏 Open To
+### 📫 Get in touch
 
-- 🤝 **Freelance projects** — AI apps, web platforms, Web3 tools
-- 🌍 **Remote work** — international teams and collaborations
-- 💼 **Full-time opportunities** — software engineering roles
-- 🎯 **Contract work** — short-term and long-term engagements
+Open to **full-time roles in Malaysia or remote**, plus contract and freelance work.
 
----
-
-<div align="center">
-
-### *"Turning complex technology into practical, user-friendly products."*
-
-**📧 winayaarya@gmail.com · 💬 [@kenshi25](https://t.me/kenshi25)**
-
-</div>
+[**Portfolio**](https://winayagatar.vercel.app) · [Email](mailto:winayaarya@gmail.com) · [Telegram](https://t.me/kenshi25) · [Résumé](https://winayagatar.vercel.app/resume.pdf)
