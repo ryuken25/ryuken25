@@ -5,16 +5,17 @@ $ whoami
   Tabanan, Bali, Indonesia   ·   open to Kuala Lumpur, Malaysia
 ```
 
-I build web apps and the automation that keeps them running. Four products are live in production right now, and I've shipped 50+ bots for clients since I went freelance in 2023.
+I build web apps and the automation that keeps them running. Five products are live in production right now, and I've shipped 50+ bots for clients since I went freelance in 2023.
 
 I work AI-first — LLM tooling is part of my daily loop for speed — but I own the architecture, read every diff, and run the deploys myself. Nothing ships on autopilot.
 
-**Portfolio →** https://winayagatar.vercel.app
+**Portfolio →** https://wyna.dev
 
 ## Live in production
 
 | Project | What it does | |
 | :--- | :--- | :--- |
+| **Kaigo Kitty** | Japanese 介護福祉士 exam prep — 13 sections, 152 levels, a 6-year mock exam, and a three-mode 漢字/ふりがな/Indonesian toggle built on a custom ruby layout | [site](https://kaigo-kitty.vercel.app) · [code](https://github.com/ryuken25/kenshi-kaigo-e-learning) |
 | **QuestPay** | Web3 creator checkout desk — solo build, from database schema to the payout flow | [site](https://kenshi-questpay.vercel.app) · [code](https://github.com/ryuken25/kenshi-questpay) |
 | **Kenshi Notes** | Obsidian-style notes on a persistent Postgres backend | [site](https://kenshi-notes.vercel.app) |
 | **Ganga Schedule** | Class-schedule app with a UI that changes with the seasons | [site](https://ganga-schedule-universal.vercel.app) |
@@ -39,6 +40,7 @@ Most of the bot work is private client code, so it isn't up here — happy to wa
 - Scope it, price it, build it, ship it, and support it after launch. I like owning the whole thing.
 - LLMs do the grunt work; I make the calls on architecture and correctness. Human review before anything goes out.
 - Small, staged releases over big-bang launches. Boring deploys are good deploys.
+- Automated checks over hope: on Kaigo Kitty a missing import once blanked every route while the build stayed green, so the repo now gates on real browser measurement across WebKit, Firefox and Chromium.
 
 ## Say hello
 
@@ -46,6 +48,6 @@ Open to full-time roles in Malaysia or remote, plus contract and freelance work.
 
 - **Email** — winayaarya@gmail.com
 - **Telegram** — [@kenshi25](https://t.me/kenshi25)
-- **Portfolio** — https://winayagatar.vercel.app
+- **Portfolio** — https://wyna.dev
 
 <sub>S.Kom, ITB STIKOM Bali (2026) · BNSP Certified Programmer · 2nd place, OSN-K Informatics 2020</sub>
