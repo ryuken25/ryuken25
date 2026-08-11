@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="W monogram">
+  <rect width="64" height="64" rx="14" fill="#07090f"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="12.5" fill="none" stroke="#4C8DF6" stroke-width="3"/>
+  <text x="32" y="34" fill="#8FB8FB" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="30" font-weight="700" text-anchor="middle" dominant-baseline="central" letter-spacing="-1">W</text>
+</svg>
