@@ -80,7 +80,7 @@ Work in progress: audio-to-chord transcription using Whisper, a FastAPI backend,
 ```text
 web          TypeScript · React · Next.js · Node.js · Tailwind
 backend      FastAPI · REST APIs · PHP · CodeIgniter
- data        PostgreSQL · Neon · MySQL · Prisma · Supabase
+data         PostgreSQL · Neon · MySQL · Prisma · Supabase
 automation   Python · Playwright · Telegram/web bots · scheduled jobs
 ai           OpenAI · Claude · Gemini · agents · tool calling
 delivery     Git/GitHub · Vercel · browser QA · staged releases
