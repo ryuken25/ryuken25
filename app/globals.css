@@ -133,6 +133,48 @@ a:hover {
   color: #e7ecf5;
 }
 
+.portfolio-brand {
+  margin-right: auto;
+  flex: 0 0 auto;
+}
+
+.portfolio-nav-links {
+  display: flex;
+  align-items: center;
+  gap: clamp(12px, 2vw, 26px);
+}
+
+.portfolio-menu {
+  display: none;
+  width: 44px;
+  height: 44px;
+  flex: 0 0 44px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 4px;
+  padding: 0;
+  border: 1px solid #26334a;
+  border-radius: 8px;
+  background: #11161f;
+  color: #e7ecf5;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+.portfolio-menu span {
+  display: block;
+  width: 17px;
+  height: 1px;
+  background: currentColor;
+  transition: transform .18s ease, opacity .18s ease;
+}
+.portfolio-menu[aria-expanded="true"] span:nth-child(1) { transform: translateY(5px) rotate(45deg); }
+.portfolio-menu[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
+.portfolio-menu[aria-expanded="true"] span:nth-child(3) { transform: translateY(-5px) rotate(-45deg); }
+
+section[id] { scroll-margin-top: 76px; }
+
 .btn-primary:hover {
   background: #3a73d4;
   color: #fff;
@@ -282,6 +324,36 @@ a:hover {
 }
 
 @media (max-width: 640px) {
+  .portfolio-nav { padding: 10px 0 !important; }
+  .portfolio-menu { display: inline-flex; }
+  .portfolio-nav-links {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    right: 0;
+    display: grid;
+    gap: 4px;
+    padding: 8px;
+    border: 1px solid #26334a;
+    border-radius: 12px;
+    background: rgba(11, 16, 25, .98);
+    box-shadow: 0 18px 40px -22px rgba(0,0,0,.8);
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-6px);
+    transition: opacity .18s ease, transform .18s ease;
+  }
+  .portfolio-nav-links.is-open { opacity: 1; pointer-events: auto; transform: translateY(0); }
+  .portfolio-nav-links .nav-link {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 10px 12px 9px;
+    border-bottom: 0;
+    border-radius: 7px;
+  }
+  .portfolio-nav-links .nav-link:hover,
+  .portfolio-nav-links .nav-link:focus-visible { background: #16202f; }
   .case-modal-backdrop { padding: 12px; align-items: end; }
   .case-modal { max-height: calc(100vh - 24px); border-radius: 16px 16px 10px 10px; }
   .case-modal-grid { grid-template-columns: 1fr; }

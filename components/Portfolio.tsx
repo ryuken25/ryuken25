@@ -57,6 +57,7 @@ export default function Portfolio() {
   const [expanded, setExpanded] = useState(false);
   const [active, setActive] = useState<string | null>(null);
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
+  const [mobileNavOpen, setMobileNavOpen] = useState(false);
 
   // Typed terminal reveal.
   useEffect(() => {
@@ -326,15 +327,22 @@ export default function Portfolio() {
 
         <div style={{ maxWidth: 1080, margin: "0 auto", position: "relative", zIndex: 1 }}>
           {/* NAV */}
-          <nav aria-label="Primary" style={{ display: "flex", flexWrap: "wrap", gap: "clamp(12px, 2vw, 26px)", alignItems: "center", padding: "20px 0", position: "sticky", top: 0, background: "rgba(11,10,15,0.9)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", zIndex: 20, borderBottom: "1px solid #161c28" }}>
-            <a href="#top" style={{ fontFamily: display, fontWeight: 700, fontSize: 15, letterSpacing: "-0.01em", color: "#e7ecf5", marginRight: "auto" }}>
+          <nav aria-label="Primary" className="portfolio-nav" style={{ display: "flex", alignItems: "center", padding: "20px 0", position: "sticky", top: 0, background: "rgba(11,10,15,0.9)", backdropFilter: "blur(8px)", WebkitBackdropFilter: "blur(8px)", zIndex: 20, borderBottom: "1px solid #161c28" }}>
+            <a href="#top" className="portfolio-brand" style={{ fontFamily: display, fontWeight: 700, fontSize: 15, letterSpacing: "-0.01em", color: "#e7ecf5" }}>
               {site.name}
             </a>
-            {NAV_IDS.map((id) => (
-              <a key={id} href={`#${id}`} className="nav-link" style={{ fontFamily: mono, fontSize: 12, letterSpacing: "0.04em", ...navLinkStyle(id) }}>
-                {id}
-              </a>
-            ))}
+            <div className={`portfolio-nav-links${mobileNavOpen ? " is-open" : ""}`}>
+              {NAV_IDS.map((id) => (
+                <a key={id} href={`#${id}`} className="nav-link" onClick={() => setMobileNavOpen(false)} style={{ fontFamily: mono, fontSize: 12, letterSpacing: "0.04em", ...navLinkStyle(id) }}>
+                  {id}
+                </a>
+              ))}
+            </div>
+            <button type="button" className="portfolio-menu" aria-label={mobileNavOpen ? "Close navigation" : "Open navigation"} aria-expanded={mobileNavOpen} onClick={() => setMobileNavOpen((open) => !open)}>
+              <span aria-hidden="true" />
+              <span aria-hidden="true" />
+              <span aria-hidden="true" />
+            </button>
           </nav>
 
           {/* HERO */}
