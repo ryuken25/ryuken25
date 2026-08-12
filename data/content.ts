@@ -13,9 +13,9 @@ export const site = {
   locationLine2: "Indonesia",
   relocation: "Open to relocation — Kuala Lumpur, Malaysia",
   heroOneLiner:
-    "I build web apps and automation systems. Five products live in production, 50+ bots delivered for clients since 2023.",
+    "I build web apps and automation systems. Four products are live in production, with 50+ bots delivered for clients since 2023.",
   metaDescription:
-    "Winayagatar builds production web apps and automation systems. Five products are live, with 50+ bots delivered since 2023.",
+    "Winayagatar builds production web apps and automation systems. Four products are live, with 50+ bots delivered since 2023.",
   email: "atar@wyna.dev",
   github: "https://github.com/ryuken25",
   githubHandle: "ryuken25",
