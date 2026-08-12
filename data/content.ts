@@ -439,7 +439,7 @@ export const experience: Job[] = [
     period: "2026",
     periodTone: "accent",
     meta: "ITB STIKOM Bali",
-    bullets: ["BNSP Certified Programmer", "2nd place, OSN-K Informatics 2020"],
+    bullets: ["2nd place, OSN-K Informatics 2020"],
     tags: [],
     pulse: false,
   },
@@ -449,7 +449,7 @@ export const about =
   "I am an Information Systems graduate (S.Kom) from ITB STIKOM Bali, 2026, and I have been freelancing since 2023. I work AI-first: LLM tooling is part of my daily workflow for speed, but I own the architecture, the code review, and the deploys myself. I am based in Bali and ready to relocate to Malaysia with an employer-sponsored Employment Pass.";
 
 export const credentials =
-  "S.Kom Information Systems, ITB STIKOM Bali (2026) · BNSP Certified Programmer · 2nd place, OSN-K Informatics 2020";
+  "S.Kom Information Systems, ITB STIKOM Bali (2026) · 2nd place, OSN-K Informatics 2020";
 
 export const contactCopy =
   "Open to full-time roles in Malaysia or remote, plus contract and freelance work.";

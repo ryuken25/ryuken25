@@ -98,7 +98,6 @@ LLMs are part of my daily workflow. Architecture, review, debugging, and the fin
 ## background
 
 - S.Kom, Information Systems, ITB STIKOM Bali, 2026
-- BNSP Certified Programmer
 - 2nd place, OSN-K Informatics, 2020
 - based in Bali, open to Malaysia relocation with an employer-sponsored Employment Pass
 
