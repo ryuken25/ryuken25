@@ -2,9 +2,9 @@
 
 # winayagatar
 
-**AI full-stack developer · automation engineer · production builder**
+**AI full-stack developer and automation engineer.**
 
-I turn rough workflows into shipped web products, internal tools, and automation systems.
+I build web products and automation for clients, then keep them running after launch.
 
 [portfolio](https://wyna.dev) · [email](mailto:atar@wyna.dev) · [telegram](https://t.me/kenshi25)
 
@@ -14,91 +14,67 @@ I turn rough workflows into shipped web products, internal tools, and automation
 
 ```text
 $ winayagatar --status
-> building and shipping since 2023
+> shipping since 2023
 > 4 live apps · 50+ automation bots delivered
-> based in Bali · open to Kuala Lumpur relocation
+> bali → kuala lumpur, open to relocation
 ```
 
-## what i build
+## what i do
 
-| Capability | What that looks like |
-|---|---|
-| **Product engineering** | Full-stack apps from data model and UI to deploy, QA, and post-launch fixes |
-| **Automation** | Browser, Telegram, and web workflows for scraping, extraction, classification, and repeatable operations |
-| **AI integration** | LLM APIs and agent/tool-calling flows where structured output is actually useful |
-| **Delivery** | Production ownership: release hygiene, secrets handling, browser verification, and maintenance |
+I take products from a first sketch to production: data model, UI, deploy, and the fixes that come after. Most of my client work is automation: browser flows, Telegram bots, scraping jobs. Work that used to eat someone's whole afternoon.
 
-## selected builds
+LLMs are part of my daily stack. They handle extraction, classification, generation. Architecture and the final call stay with me.
 
-### Kenshi Kaigo — Japanese caregiver exam prep
+## selected work
 
-A Japanese `介護福祉士` learning platform built for repeated practice rather than a static question bank.
+### Kenshi Kaigo
 
-- 13 sections and 152 progressive levels
-- six-year mock-exam experience
-- kanji, furigana, and Indonesian reading modes
-- custom ruby layout with cross-browser rendering checks
-- React, Vite, Neon Postgres, Vercel Functions
+Japanese `介護福祉士` exam prep for Indonesian learners. 13 sections, 152 levels, six years of mock exams. Kanji, furigana, and Indonesian reading modes with a custom ruby layout so readings don't collide across browsers.
 
 [case study](https://wyna.dev) · [live app](https://kaigo.wyna.dev) · [source](https://github.com/ryuken25/kenshi-kaigo-e-learning)
 
-### QuestPay — creator checkout desk
+### QuestPay
 
-A Web3 creator checkout flow that keeps order, payment, and release state in one product.
-
-- creator-facing checkout
-- persistent Postgres data
-- payment and release state handling
-- production deployment and ongoing ownership
+Web3 checkout desk for creator orders. Solo build from the schema to the payment release flow. Still running it.
 
 [case study](https://wyna.dev) · [live app](https://kenshi-questpay.vercel.app) · [source](https://github.com/ryuken25/kenshi-questpay)
 
-### Mellogang Visuals — client production system
+### Mellogang Visuals
 
-Ordering and production tracking for a photo/video studio, with the handoffs visible from client request to delivery.
-
-- Admin, Editor, and Client access levels
-- OTP and Google OAuth entry points
-- payment verification and shoot scheduling
-- PDF invoice generation
+Client system for a photo/video studio: role access for admin, editor, and client, OTP and Google OAuth login, payment checks, scheduling, PDF invoices.
 
 [case study](https://wyna.dev) · [live app](https://mellogang.vercel.app) · [source](https://github.com/ryuken25/mellogang-website)
 
-### More work
+### more work
 
-- **Kenshi Notes** — Obsidian-style notes workspace with persistent Postgres storage. [case study](https://wyna.dev) · [live app](https://kenshi-notes.vercel.app)
-- **Ganga Schedule Universal** — class-schedule app with a seasonal interface. [case study](https://wyna.dev) · [live app](https://ganga-schedule-universal.vercel.app)
-- **Kenshi Chord** — work in progress: audio-to-chord transcription with Whisper and FastAPI. [case study](https://wyna.dev) · [source](https://github.com/ryuken25/kenshi-chord)
+- **Kenshi Notes** — Obsidian-style notes app on a Postgres backend. [live](https://kenshi-notes.vercel.app)
+- **Ganga Schedule Universal** — class schedule app with seasonal UI. [live](https://ganga-schedule-universal.vercel.app)
+- **Kenshi Chord** — in progress: audio to chords with Whisper and FastAPI. [source](https://github.com/ryuken25/kenshi-chord)
 
 ## stack
 
 ```text
-web          TypeScript · React · Next.js · Vite · Node.js · Tailwind
-backend      FastAPI · REST APIs · PHP · CodeIgniter
-storage      PostgreSQL · Neon · MySQL · Prisma · Supabase
-automation   Python · Playwright · Telegram/web bots · scheduled jobs
+web          TypeScript · React · Next.js · Vite · Tailwind
+backend      FastAPI · Node.js · PHP · CodeIgniter
+data         PostgreSQL · Neon · MySQL · Prisma · Supabase
+automation   Python · Playwright · Telegram bots · cron jobs
 ai           OpenAI · Claude · Gemini · agents · tool calling
-delivery     Git/GitHub · Vercel · browser QA · staged releases
+delivery     Git/GitHub · Vercel · browser QA
 ```
 
 ## how i work
 
-1. **Find the real bottleneck** before choosing a stack.
-2. **Ship the smallest working path** instead of hiding behind a giant first release.
-3. **Test the behavior users actually see** — including real browser geometry when layout matters.
-4. **Deploy, observe, and repair**; launch is a checkpoint, not the finish line.
-
-LLMs are part of my daily workflow for speed and structured exploration. Architecture, code review, debugging, and the final shipping decision stay with me.
+Scope the real problem first. Ship a small working path early. Test in real browsers when layout matters. Deploy, watch it, fix what breaks.
 
 ## background
 
-- S.Kom, Information Systems, ITB STIKOM Bali, 2026
-- 2nd place, OSN-K Informatics, 2020
-- Based in Bali, open to Malaysia relocation with an employer-sponsored Employment Pass
+- S.Kom Information Systems, ITB STIKOM Bali (2026)
+- 2nd place, OSN-K Informatics 2020
+- Based in Bali. Open to relocating to Kuala Lumpur with an employment pass.
 
 ## contact
 
-Open to full-time roles in Malaysia or remote work, plus selected contract projects.
+Open to full-time roles in Malaysia, remote work, or contract projects.
 
 - **email:** [atar@wyna.dev](mailto:atar@wyna.dev)
 - **telegram:** [@kenshi25](https://t.me/kenshi25)
@@ -112,9 +88,3 @@ Open to full-time roles in Malaysia or remote work, plus selected contract proje
 </div>
 
 <!-- profile README: keep public claims concise and evidence-backed; detailed case studies live at wyna.dev -->
-
-<!--
-Inspired by the useful parts of waguriagentic's README: a fast identity/status block,
-capability grouping, and a compact toolchain. The content here stays human, product,
-and evidence focused.
--->
