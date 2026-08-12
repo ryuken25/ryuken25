@@ -6,7 +6,7 @@
 
 I build web products, internal tools, and automation that people can actually use.
 
-[portfolio](https://wyna.dev) · [email](mailto:winayaarya@gmail.com) · [telegram](https://t.me/kenshi25)
+[portfolio](https://wyna.dev) · [email](mailto:atar@wyna.dev) · [telegram](https://t.me/kenshi25)
 
 </div>
 
@@ -23,7 +23,7 @@ I have been freelancing since 2023. Five products are currently live in producti
 
 ## selected work
 
-### Kaigo Kitty
+### Kenshi Kaigo
 
 A Japanese 介護福祉士 exam-prep platform for learners who need more than a static question bank.
 
@@ -105,7 +105,7 @@ LLMs are part of my daily workflow. Architecture, review, debugging, and the fin
 
 Open to full-time roles in Malaysia or remote work, plus selected contract projects.
 
-- **email:** [winayaarya@gmail.com](mailto:winayaarya@gmail.com)
+- **email:** [atar@wyna.dev](mailto:atar@wyna.dev)
 - **telegram:** [@kenshi25](https://t.me/kenshi25)
 - **portfolio:** [wyna.dev](https://wyna.dev)
 

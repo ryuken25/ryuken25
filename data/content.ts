@@ -16,7 +16,7 @@ export const site = {
     "I build web apps and automation systems. Five products live in production, 50+ bots delivered for clients since 2023.",
   metaDescription:
     "Winayagatar builds production web apps and automation systems. Five products are live, with 50+ bots delivered since 2023.",
-  email: "winayaarya@gmail.com",
+  email: "atar@wyna.dev",
   github: "https://github.com/ryuken25",
   githubHandle: "ryuken25",
   telegram: "https://t.me/kenshi25",
@@ -66,7 +66,7 @@ export interface ProjectDetail {
 }
 
 export const projectDetails: Record<string, ProjectDetail> = {
-  "Kaigo Kitty": {
+  "Kenshi Kaigo": {
     eyebrow: "education platform · live",
     overview: "A Japanese 介護福祉士 exam-prep app built for repeated practice, not a one-time quiz.",
     problem: "Learners need to move between Japanese text, furigana, Indonesian support, lessons, and mock exams without losing their place.",
@@ -216,10 +216,10 @@ export const PREVIEW_COUNT = 6;
 
 export const projects: Project[] = [
   {
-    name: "Kaigo Kitty",
+    name: "Kenshi Kaigo",
     desc: "Japanese caregiver-certification (介護福祉士) exam prep: 13 sections, 152 levels, a six-year mock exam, and a three-mode 漢字/ふりがな/Indonesian switch built on a custom flex ruby layout instead of the browser engine, so readings never collide and Safari matches Chrome. Ships behind gates that measure real glyph boxes in WebKit, Firefox and Chromium at seven viewport widths.",
     tags: ["React", "Vite", "Neon Postgres", "Vercel Functions"],
-    live: "https://kaigo-kitty.vercel.app",
+    live: "https://kaigo.wyna.dev",
     repo: "https://github.com/ryuken25/kenshi-kaigo-e-learning",
     badge: "LIVE",
   },

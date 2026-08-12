@@ -56,7 +56,7 @@ const svg = `
   </g>
 
   <line x1="80" y1="574" x2="1120" y2="574" stroke="#161c28" stroke-width="1"/>
-  <text x="80" y="604" fill="#6c7688" font-family="Consolas, 'Courier New', monospace" font-size="21">github.com/ryuken25  ·  winayaarya@gmail.com  ·  Bali → Kuala Lumpur</text>
+  <text x="80" y="604" fill="#6c7688" font-family="Consolas, 'Courier New', monospace" font-size="21">github.com/ryuken25  ·  atar@wyna.dev  ·  Bali → Kuala Lumpur</text>
 </svg>`;
 
 const resvg = new Resvg(svg, {
