@@ -6,7 +6,11 @@
 
 I build web products and automation for clients, then keep them running after launch.
 
-[portfolio](https://wyna.dev) · [email](mailto:atar@wyna.dev) · [telegram](https://t.me/kenshi25)
+[![X](https://img.shields.io/badge/X-%40atttar4-000000?logo=x&logoColor=white)](https://x.com/atttar4)
+[![GitHub](https://img.shields.io/badge/GitHub-ryuken25-181717?logo=github&logoColor=white)](https://github.com/ryuken25)
+[![Telegram](https://img.shields.io/badge/Telegram-%40kenshi25-26A5E4?logo=telegram&logoColor=white)](https://t.me/kenshi25)
+
+[portfolio](https://wyna.dev) · [email](mailto:atar@wyna.dev)
 
 </div>
 
@@ -72,14 +76,27 @@ Scope the real problem first. Ship a small working path early. Test in real brow
 - 2nd place, OSN-K Informatics 2020
 - Based in Bali. Open to relocating to Kuala Lumpur with an employment pass.
 
+## proof
+
+Live numbers, pulled from GitHub — not screenshots.
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuken25&theme=github" alt="GitHub profile summary" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ryuken25&theme=soft-green&hide_border=true&background=f6f8fa&stroke=4c8df6&ring=4c8df6&fire=34d399&currStreakLabel=4c8df6" alt="GitHub streak" width="48%" />
+  <img src="https://ghchart.rshah.org/4c8df6/ryuken25" alt="GitHub activity chart" width="48%" />
+</p>
+
 ## contact
 
 Open to full-time roles in Malaysia, remote work, or contract projects.
 
 - **email:** [atar@wyna.dev](mailto:atar@wyna.dev)
 - **telegram:** [@kenshi25](https://t.me/kenshi25)
+- **x:** [@atttar4](https://x.com/atttar4)
 - **portfolio:** [wyna.dev](https://wyna.dev)
-- **github:** [ryuken25](https://github.com/ryuken25)
 
 <div align="center">
 
