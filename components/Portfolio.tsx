@@ -625,19 +625,27 @@ export default function Portfolio() {
             <p style={eyebrowStyle}>{eyebrows.contact}</p>
             <h2 style={{ ...h2Style, fontSize: "clamp(26px, 3.4vw, 36px)", margin: "0 0 12px" }}>Contact</h2>
             <p style={{ fontSize: "clamp(15px, 1.7vw, 17px)", lineHeight: 1.6, color: "#939daf", margin: "0 0 24px", maxWidth: "52ch" }}>{contactCopy}</p>
-            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(210px, 1fr))", gap: 12 }}>
+            <div className="contact-grid" style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(210px, 1fr))", gap: 12 }}>
               <ContactCard href={`mailto:${site.email}`} primary label="EMAIL" value={site.email} icon={<><rect x="2.5" y="4.5" width="19" height="15" rx="2.5" /><path d="M3 6.5l9 6.5 9-6.5" /></>} />
-              <ContactCard href={site.whatsapp} external label="WHATSAPP" value="Chat on WhatsApp" icon={<><path d="M12 3a9 9 0 0 0-7.7 13.7L3 21l4.4-1.3A9 9 0 1 0 12 3z" /><path d="M9 8.6c0 3.2 2.6 5.8 5.8 5.8 0 0 .9-.1.9-1.1 0-.6-1.5-1.2-1.9-1-.3.2-.5.8-.9.7-1-.3-2.2-1.5-2.5-2.5-.1-.4.5-.6.7-.9.2-.4-.4-1.9-1-1.9-1 0-1.1.9-1.1.9z" /></>} />
-              <ContactCard href={site.telegram} external label="TELEGRAM" value={`@${site.telegramHandle}`} icon={<><path d="M21.5 3.8L2.9 10.9c-.6.2-.6 1 0 1.2l4.4 1.5 1.6 5c.2.6 1 .7 1.3.2l2.3-3.2 4.6 3.4c.5.4 1.2.1 1.3-.5l3.7-13.6c.2-.7-.5-1.3-1.1-1.1z" /><path d="M7.3 13.6l10.9-7.4-6.4 8.9" /></>} />
               <ContactCard href={site.github} external label="GITHUB" value={site.githubHandle} icon={<><path d="M9 7l-5 5 5 5" /><path d="M15 7l5 5-5 5" /></>} />
+              <ContactCard href={site.instagram} external label="INSTAGRAM" value={`@${site.instagramHandle}`} icon={<><rect x="3.5" y="3.5" width="17" height="17" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r=".8" fill="currentColor" stroke="none" /></>} />
             </div>
           </section>
 
           {/* FOOTER */}
-          <footer style={{ borderTop: "1px solid #161c28", padding: "22px 0 34px", display: "flex", flexWrap: "wrap", gap: "8px 18px", justifyContent: "space-between" }}>
-            <p style={{ fontFamily: mono, fontSize: 11.5, color: "#6c7688", margin: 0 }}>{site.fullName}</p>
-            <a href="#top" className="top-link" style={{ fontFamily: mono, fontSize: 11.5, color: "#8b95a7" }}>back to top ↑</a>
-            <p style={{ fontFamily: mono, fontSize: 11.5, color: "#6c7688", margin: 0 }}>2026</p>
+          <footer className="site-footer">
+            <a href="#top" className="site-footer-brand">wyna.dev</a>
+            <div className="site-footer-links" aria-label="Social links">
+              <a href={site.github} target="_blank" rel="noopener noreferrer" aria-label="GitHub" title="GitHub">
+                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.34 1.09 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.56-1.11-4.56-4.95 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02a9.6 9.6 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.85-2.34 4.7-4.57 4.94.36.31.68.92.68 1.86v2.75c0 .27.18.58.69.48A10 10 0 0 0 12 2z" /></svg>
+              </a>
+              <a href={site.instagram} target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Instagram">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r=".8" fill="currentColor" stroke="none" /></svg>
+              </a>
+              <a href={`mailto:${site.email}`} aria-label="Email" title={site.email}>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><rect x="2.5" y="4.5" width="19" height="15" rx="2.5" /><path d="M3 6.5l9 6.5 9-6.5" /></svg>
+              </a>
+            </div>
           </footer>
         </div>
       </div>
